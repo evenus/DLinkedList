@@ -1,4 +1,4 @@
-package java;
+package DLinkedList;
 
 public class DLinkedList {
 
